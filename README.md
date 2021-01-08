@@ -1,3 +1,7 @@
+#Reading List App
+This project was used to learn fundamentals of React Context API coupled with React Hooks!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
